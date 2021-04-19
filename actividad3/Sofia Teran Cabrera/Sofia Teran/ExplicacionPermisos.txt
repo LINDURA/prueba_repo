@@ -5,7 +5,7 @@ Grupo
 Aquel formado por varios usuarios
 Otros
 Aquel que no es propietario y no pertenece a un grupo
-PERMISOS PARA DIRECTORIOS
+PERMISOS
 Lectura
 Permite visualizar el contenido
 Escritura
