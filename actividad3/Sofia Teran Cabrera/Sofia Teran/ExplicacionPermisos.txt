@@ -1,0 +1,22 @@
+Niveles y tipos de permisos para archivos 
+Propietario
+Aquel que genera/crea un archivo/carpeta sobre el que tenga derechos
+Grupo
+Aquel formado por varios usuarios
+Otros
+Aquel que no es propietario y no pertenece a un grupo
+PERMISOS PARA DIRECTORIOS
+Lectura
+Permite visualizar el contenido
+Escritura
+Permite crear/eliminar archivos y directorios dentro de este directorio
+Ejecución
+Permite entrar al directorio
+change owner
+chown
+chown propietarionuevoPropietario
+Cambia el propietario de un archivo/directorio
+super user do
+sudo
+sudo comando
+ejecutra con  los privilegios de otros usuario
